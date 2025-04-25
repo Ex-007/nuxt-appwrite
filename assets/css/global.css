@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* html, body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    background-image: linear-gradient(to bottom, #d10000 40%, 
+    #2db3bf 70%,
+    #7486df 100%,
+    rgb(17, 73, 118));
+    font-family: 'Inter', sans-serif;
+} */
